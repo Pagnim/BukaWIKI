@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+body{
+    margin:0px;
+    font-family: 'Jua', sans-serif;
+    background : url() no-repeat center;
+    background-size: cover;
+}
+h1 {
+    color:pink;
+    font-size:6em;
+    text-align:center;
+    margin:0px;
+    border-bottom:5px solid pink;
+}
+h2 {
+    font-size:3em;
+    padding-left:40px;
+    margin:0px;
+}
+h3 {
+    font-size:2em;
+    padding-left:10px;
+    margin:0px;
+    display:inline;
+}
+#니은{
+    font-size:3em;
+    padding-left:60px;
+    margin:0px;
+}
+#니은2{
+        font-size:2em;
+        padding-left:130px;
+        margin:0px;
+    }        
+ol{
+    text-align:center;
+    border-right:5px solid pink;
+    width:300px;
+    padding:0px;
+    margin:0px;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+#grid{
+    display:grid;
+    grid-template-columns:300px 1fr;
+    border-bottom:5px solid pink;
+}
+#내용{
+    font-size:2em;
+    color:rgb(65, 214, 228);
+    padding-left:30px;
+}
